@@ -4,10 +4,12 @@ public class Main {
         boolean productAvailable=true;
 
         if ( productAvailable ) {
-            System.out.print("yes");
+            System.out.println("yes");
         } else {
             System.out.print("no");
         }
+
+        System.out.println("The code is complete");
 
     }
 }
