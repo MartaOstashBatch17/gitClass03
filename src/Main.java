@@ -10,6 +10,7 @@ public class Main {
         }
 
         System.out.println("The code is complete");
+        SolarSystem solarSystem=new Solarsystem;
 
     }
 }
